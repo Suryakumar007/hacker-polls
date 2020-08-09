@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hacker-polls/static/css/main.a3acf6ab.chunk.css",
+    "main.js": "/hacker-polls/static/js/main.c969853f.chunk.js",
+    "main.js.map": "/hacker-polls/static/js/main.c969853f.chunk.js.map",
+    "runtime-main.js": "/hacker-polls/static/js/runtime-main.69e25f22.js",
+    "runtime-main.js.map": "/hacker-polls/static/js/runtime-main.69e25f22.js.map",
+    "static/js/2.2f534f72.chunk.js": "/hacker-polls/static/js/2.2f534f72.chunk.js",
+    "static/js/2.2f534f72.chunk.js.map": "/hacker-polls/static/js/2.2f534f72.chunk.js.map",
+    "index.html": "/hacker-polls/index.html",
+    "precache-manifest.a876d1c30ca9e0602a8624d58e2f3ee4.js": "/hacker-polls/precache-manifest.a876d1c30ca9e0602a8624d58e2f3ee4.js",
+    "service-worker.js": "/hacker-polls/service-worker.js",
+    "static/css/main.a3acf6ab.chunk.css.map": "/hacker-polls/static/css/main.a3acf6ab.chunk.css.map",
+    "static/js/2.2f534f72.chunk.js.LICENSE.txt": "/hacker-polls/static/js/2.2f534f72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69e25f22.js",
+    "static/js/2.2f534f72.chunk.js",
+    "static/css/main.a3acf6ab.chunk.css",
+    "static/js/main.c969853f.chunk.js"
+  ]
+}
