@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hacker-polls/static/css/main.a3acf6ab.chunk.css",
-    "main.js": "/hacker-polls/static/js/main.6c87d8de.chunk.js",
-    "main.js.map": "/hacker-polls/static/js/main.6c87d8de.chunk.js.map",
+    "main.js": "/hacker-polls/static/js/main.434097d7.chunk.js",
+    "main.js.map": "/hacker-polls/static/js/main.434097d7.chunk.js.map",
     "runtime-main.js": "/hacker-polls/static/js/runtime-main.69e25f22.js",
     "runtime-main.js.map": "/hacker-polls/static/js/runtime-main.69e25f22.js.map",
     "static/js/2.2f534f72.chunk.js": "/hacker-polls/static/js/2.2f534f72.chunk.js",
     "static/js/2.2f534f72.chunk.js.map": "/hacker-polls/static/js/2.2f534f72.chunk.js.map",
     "index.html": "/hacker-polls/index.html",
-    "precache-manifest.4773fa8424fe54ed221afc7814df08b6.js": "/hacker-polls/precache-manifest.4773fa8424fe54ed221afc7814df08b6.js",
+    "precache-manifest.3a439ae6323b79edc49832b49cd1f196.js": "/hacker-polls/precache-manifest.3a439ae6323b79edc49832b49cd1f196.js",
     "service-worker.js": "/hacker-polls/service-worker.js",
     "static/css/main.a3acf6ab.chunk.css.map": "/hacker-polls/static/css/main.a3acf6ab.chunk.css.map",
     "static/js/2.2f534f72.chunk.js.LICENSE.txt": "/hacker-polls/static/js/2.2f534f72.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.69e25f22.js",
     "static/js/2.2f534f72.chunk.js",
     "static/css/main.a3acf6ab.chunk.css",
-    "static/js/main.6c87d8de.chunk.js"
+    "static/js/main.434097d7.chunk.js"
   ]
 }
